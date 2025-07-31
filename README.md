@@ -6,7 +6,7 @@ The config is changed through the config.c and config.h files, after which the p
 Compile 
 ```
 gcc -o cmpfetch main.c config.c
-mv cmpfetch /usr/bin
+mv cmpfetch /data/data/com.termux/files/usr/bin
 ```
 Run
 ```
